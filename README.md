@@ -10,3 +10,9 @@
 
 - Learning the bash shell (Cameron Newham)
 - Linux 101 hacks (Ramesh Natarajan)
+
+
+## Tuts
+
+- https://www.udemy.com/course/linux-shell-scripting-projects/
+- https://linuxconfig.org/bash-scripting-tutorial-for-beginners
